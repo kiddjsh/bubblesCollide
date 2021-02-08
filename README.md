@@ -21,7 +21,11 @@ Actions that the player can perform are:
 
 # Character
 
+Green Orb
+
 # Enemies
+
+Orange Orb
 
 # Game Play
 
