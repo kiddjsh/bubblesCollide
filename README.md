@@ -8,7 +8,7 @@ A standard Windows API, or Win32App
 # Target Market
 The ideal user has the following characteristics:
 1.	Male or Female
-2.	8+ years old
+2.	4+ years old
 3.	Likes games
 4.	Plays mobile games
 
