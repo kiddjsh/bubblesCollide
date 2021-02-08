@@ -25,7 +25,7 @@ Green Orb
 
 # Enemies
 
-Orange Orb
+Yellow Orb
 
 # Game Play
 
