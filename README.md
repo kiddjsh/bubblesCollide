@@ -14,8 +14,8 @@ The ideal user has the following characteristics:
 
 # Game Flow
 Actions that the player can perform are:
-1.	Move west (a) and east (d).
-2.	Move north (w) and south (s).
+1.	Move left (a) and right (d).
+2.	Move up (w) and down (s).
 
 # Game Objects
 
