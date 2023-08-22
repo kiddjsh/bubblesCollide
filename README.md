@@ -2,9 +2,9 @@
 
 # bubblesCollide
 A standard Windows API, or Win32App
-	- Originally on Visual Studio 2012
-	- Updated to Visual Studio 2019
-	- Updated to Visual Studio Enterprise 2022
+- Originally on Visual Studio 2012
+- Updated to Visual Studio 2019
+- Updated to Visual Studio Enterprise 2022
 
 # Design Goals
 
